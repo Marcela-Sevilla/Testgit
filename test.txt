@@ -2,4 +2,8 @@ prueba 1
 prueba 2
 Prueba de repositorio remoto
 prueba de git pull
+<<<<<<< HEAD
 probando la rama prueba
+=======
+probando la rama master
+>>>>>>> master
