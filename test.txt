@@ -8,3 +8,4 @@ probando la rama prueba
 probando la rama master
 >>>>>>> master
 git stash
+probando git cherry-pick
